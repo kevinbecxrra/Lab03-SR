@@ -1,0 +1,4 @@
+jupyterlab
+scikit-surprise
+seaborn
+numpy<2
